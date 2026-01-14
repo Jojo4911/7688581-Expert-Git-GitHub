@@ -11,7 +11,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-A définir
+git clone https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub.git
 
 ```
 
